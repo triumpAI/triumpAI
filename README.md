@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.png" alt="TRIUMP AI" width="100%">
+  <img src="banner.png" alt="TRIUMP AI" width="100%">
 </p>
 
 <h1 align="center">TRIUMP AI</h1>
@@ -33,9 +33,9 @@ Backed by the community memecoin **$TRIM** on Solana.
 
 | | | |
 |:-:|:-:|:-:|
-| ![three.js](img/three-js.jpg) | ![ComfyUI](img/comfyui.jpg) | ![Hydra](img/hydra.jpg) |
+| ![three.js](three-js.png) | ![Comfy](comfy.png) | ![Hydra](hydra.png) |
 | **three.js** | **ComfyUI** | **Hydra** |
-| ![p5.js](img/p5-js.jpg) | ![ShaderGif](img/shadergif.jpg) | ![Dyad](img/dyad.jpg) |
+| ![p5.js](p5-js.png) | ![ShaderGif](shadergif.png) | ![Dyad](dyad.png) |
 | **p5.js** | **ShaderGif** | **Dyad** |
 
 ## 🚀 Features
