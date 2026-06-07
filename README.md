@@ -33,9 +33,9 @@ Backed by the community memecoin **$TRIM** on Solana.
 
 | | | |
 |:-:|:-:|:-:|
-| ![three.js](three.js.png) | ![Comfy](comfy.png) | ![Hydra](hydra.png) |
+| ![three.js](three.js.png) | ![Comfy](comfy.png) | ![Hydra](Hydra.png) |
 | **three.js** | **ComfyUI** | **Hydra** |
-| ![p5.js](p5-js.png) | ![ShaderGif](shadergif.png) | ![Dyad](dyad.png) |
+| ![p5.js](p5-js.png) | ![ShaderGif](ShaderGif.png) | ![Dyad](Dyad.png) |
 | **p5.js** | **ShaderGif** | **Dyad** |
 
 ## 🚀 Features
